@@ -1,16 +1,3 @@
-# quotes
+# Quotes
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project demonstrates how to setup firebase notifications in Flutter. Notifications from this specific project are trigger using a strapi powered [server](https://github.com/i1d9/strapi_fcm/tree/master/backend). 
